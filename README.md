@@ -15,7 +15,7 @@
 
 # Preview
 
-![Imagem]()
+![Imagem](https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/randon-advice-ts/main/public/preview.png)
 
 # Demonstração
 
