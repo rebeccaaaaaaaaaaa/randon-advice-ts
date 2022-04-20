@@ -1,4 +1,4 @@
-# aPP - Conselhos aleatórios
+# App - Conselhos aleatórios
 
 - Aplicativo web desenvolvido para treinamento e estudo. O objetivo é consumir uma api, apresentar na tela os valores recuperados da api e permitir que o usuário consiga um novo aviso ao clicar em um botão.
 
